@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=odu-dev&show_icons=true&locale=en&layout=compact" alt="odu-dev" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=odu-dev&show_icons=true&locale=en" alt="odu-dev" /></p> <br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=odu-dev&show_icons=true&locale=en" alt="odu-dev" /></p>
 
 
