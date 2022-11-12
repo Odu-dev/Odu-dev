@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="odu-dev" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://afeesportfolio.oduolaafees.repl.co/](https://afeesportfolio.oduolaafees.repl.co/)
 
