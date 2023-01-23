@@ -1,7 +1,7 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://Odu-dev.io)
 
 <h1 align="center">Hello 👋, I'm Afees Oduola</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate frontend developer and technical writer from Nigeria</h3>
 
 <h4 align="center">... coding to break barriers</h4>
 
