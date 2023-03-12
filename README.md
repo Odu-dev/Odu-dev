@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://afeesportfolio.oduolaafees.repl.co/](https://afeesportfolio.oduolaafees.repl.co/)
+<!-- - 👨‍💻 All of my projects are available at [https://afeesportfolio.oduolaafees.repl.co/](https://afeesportfolio.oduolaafees.repl.co/) -->
 
 - 💬 Ask me about **HTML and CSS5**
 
